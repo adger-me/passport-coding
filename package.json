@@ -1,0 +1,33 @@
+{
+  "name": "passport-coding",
+  "version": "0.0.2",
+  "main": "lib/index.js",
+  "description": "",
+  "author": "adger",
+  "scripts": {
+    "eslint": "./node_modules/.bin/eslint ./app",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "passport",
+    "coding"
+  ],
+  "devDependencies": {
+    "eslint": "^1.4.1",
+    "semantic-release": "^15.13.19"
+  },
+  "dependencies": {
+    "debug": "latest",
+    "flyio": "^0.6.14",
+    "passport": "^0.3.0",
+    "passport-strategy": "^1.0.0"
+  }
+}
