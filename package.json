@@ -22,7 +22,7 @@
   ],
   "devDependencies": {
     "eslint": "^1.4.1",
-    "semantic-release": "^15.13.19"
+    "semantic-release": "^17.2.3"
   },
   "dependencies": {
     "debug": "latest",
